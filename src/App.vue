@@ -9,7 +9,7 @@ import HelloWorld from './components/HelloWorld.vue'
 // Check out https://github.com/vuejs/rfcs/blob/script-setup-2/active-rfcs/0000-script-setup.md
 </script>
 
-<style rel="stylesheet/scss" lang="scss">
-//@import "./assets/sass/app";
-@import "~sass/app";
+<style>
+ /* @import "./assets/sass/app"; */
+@import "~sass/app.scss";
 </style>
